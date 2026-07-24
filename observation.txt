@@ -1,0 +1,9 @@
+Observations
+1.	Some counties have very high COVID-19 case counts, while most counties have comparatively fewer cases. 
+2.	Counties with more cases generally have more deaths, showing a positive relationship between cases and deaths. 
+3.	Los Angeles County has one of the highest numbers of cases in the dashboard. 
+4.	New York City has one of the highest death counts compared to other counties. 
+5.	Most counties are clustered in the lower-left area of the scatter plot, indicating low to moderate numbers of cases and deaths. 
+6.	Only a few counties are outliers, with extremely high cases and deaths. 
+7.	The bubble size (Average Cases) is larger for counties with higher case counts, making them easy to identify. 
+8.	Some counties have missing (null) values, as shown by the "76+ nulls" and "78+ nulls" indicators.
